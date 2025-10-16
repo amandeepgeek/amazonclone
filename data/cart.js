@@ -1,5 +1,5 @@
 export let cart = JSON.parse(localStorage.getItem('cart'));
-
+//This is a test commit
 
 if(!cart){
 cart = [
